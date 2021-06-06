@@ -4,6 +4,9 @@
 #navbar ul li a{
     font-size: 0.6rem;
 }
+#home::before{
+    background: url('images/ashvec.jpg') no-repeat center center/cover ;
+}
 #home h1{
     font-size: 3rem;
     text-align: center;
